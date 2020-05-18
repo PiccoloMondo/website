@@ -43,7 +43,7 @@ jQuery(function() {
           var item = loaded_data[result.ref];
 
           url = item.url.trim()
-          var out = '/'+url
+          var out = '/web'+url
           //console.log( '<li><a href="' + out + '">' + item.title + '</a></li>')          
 
           // Build a snippet of HTML for this result

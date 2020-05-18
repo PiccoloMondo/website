@@ -6,7 +6,7 @@ description: > # Meta description of Homepage
 tagline: >
   since 1985
 
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "/web" # the subpath of your site, e.g. /blog
 
 
 # THEME SETTINGS
