@@ -1,0 +1,51 @@
+# SITE CONFIGURATION
+title: Piccolo Mondo # your site title
+author: Matteo # You :P
+description: > # Meta description of Homepage
+  This is Piccolo Mondon
+tagline: >
+  since 1985
+
+baseurl: "/" # the subpath of your site, e.g. /blog
+
+
+# THEME SETTINGS
+navigation: # Navigation links
+  - {name: 'Home', link: '/'}
+  - {name: 'English', link: '/en/'} 
+  - {name: 'Search', link: '/search/'}
+
+navigation_eng: 
+  - {name: 'Home', link: '/en/'}
+  - {name: 'Italiano', link: '/'} 
+  - {name: 'Cerca', link: '/search/'}
+
+hero_img: posts/black.jpg 
+
+service_worker: true
+
+# BUILD SETTINGS
+markdown: kramdown
+highlighter: rouge 
+exclude:
+  - README.md
+  - node_modules
+  - script
+  - package.json
+  - package-lock.json
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - npm-debug.log
+  - gulpfile.js
+  - sleek.jpg
+
+include: ['_pages']
+permalink: /:title/
+
+compress_html:
+  clippings: all
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
