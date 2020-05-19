@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: I nostri antipasti
 categories: menu antipasti
 permalink: /:categories/index.html

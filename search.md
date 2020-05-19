@@ -1,8 +1,7 @@
 ---
 layout: page
-title: Search
+title: Cerca
 permalink: /search/
-featured-img: devops-logo
 ---
 
 {% include search.html %}

@@ -12,8 +12,7 @@ baseurl: "/website" # the subpath of your site, e.g. /blog
 # THEME SETTINGS
 navigation: # Navigation links
   - {name: 'Home', link: '/'}
-  - {name: 'English', link: '/en/'} 
-  - {name: 'Search', link: '/search/'}
+  - {name: 'Cerca', link: '/search/'}
 
 navigation_eng: 
   - {name: 'Home', link: '/en/'}
