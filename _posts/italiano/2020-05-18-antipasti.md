@@ -6,21 +6,10 @@ permalink: /:categories/index.html
 featured-img: red
 language: ita
 summary: CHANGE ME
+menu: antipasti
 ---
 
-<html>
-<body>
-<center><i>testo</i></center>
-<br> 
-<center><i>testo</i></center>
-<br> 
-
-
-
-### Testo
-bla bla
-<br> 
-<br> 
+{% include menu_table.html %} 
 
 
 
