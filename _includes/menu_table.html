@@ -93,7 +93,7 @@ table th {
   <tbody>
     {% for item in site.data[page.menu] %}
     <tr>
-      <td ><b style="font-family:cursive;">{{ item.name }}</b> <br><br>{% if item.description %}{{ item.description }}{% else %} {% endif %}<br></td>
+      <td ><b>{{ item.name }}</b> <br><br>{% if item.description %}{{ item.description }}{% else %} {% endif %}<br></td>
       <td data-label="Prezzo">{{ item.prezzo }}</td>
     </tr>
     {% endfor %}
@@ -113,7 +113,7 @@ table th {
   <tbody>
     {% for item in site.data[page.secondary_menu] %}
     <tr>
-      <td ><b style="font-family:cursive;">{{ item.name }}</b> <br><br>{% if item.description %}{{ item.description }}{% else %} {% endif %}<br></td>
+      <td ><b>{{ item.name }}</b> <br><br>{% if item.description %}{{ item.description }}{% else %} {% endif %}<br></td>
       <td data-label="Prezzo">{{ item.prezzo }}</td>
     </tr>
     {% endfor %}
