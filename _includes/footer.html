@@ -1,18 +1,13 @@
 <footer class="footer">
   <div class="container">
+    <span> Coperto e servizio: 1.50€</span>
+    <br>
+    <br>
+    <span style="font-family:cursive;">In presenza di allergie è consigliato DOMANDARE, perché non tutti gli ingredienti sono stati elencati</span>
+    <br>
+    <br>
     <span>&copy; {{ site.time | date: '%Y' }} {{ site.title | escape }}. All rights reserved.</span>
   </div>
 </footer>
 <script async src="{{ "/assets/js/bundle.js" | relative_url }}"></script>
-{% if site.service_worker %}
-<script async>
-  if ('serviceWorker' in navigator) {
-    navigator.serviceWorker.register('{{ "/sw.js" | relative_url }}').then(function( registration ) {
-      console.log('ServiceWorker registration successful with scope: ', registration.scope);
-    })
-    .catch(function(error) {
-      console.log('ServiceWorker registration failed: ', error);
-    });
-  }
-</script>
-{% endif %}
+
