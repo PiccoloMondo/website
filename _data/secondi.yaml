@@ -1,4 +1,6 @@
-- name: Fiori di zucca fritti
-  prezzo: 6€
-- name: Bocconcini di pollo
-  prezzo: 7€
+- name: Tagliata di vitello rucola e grana
+  prezzo: 13.00€
+- name: Tagliata di pollo su insalata di finocchi, arancia e semi di zucca 
+  prezzo: 10.00€
+- name: Tagliata di vitello, radicchio rosso, pecorino semi-stagionato e miele
+  prezzo: 14.00€

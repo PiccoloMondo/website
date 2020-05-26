@@ -1,0 +1,10 @@
+- name: Hamburger classico
+  description: insalata, pomodori, cipolla, patatine fritte
+  prezzo: 10.00€
+- name: Hamburger di Scottona 
+  description: <b><i>panino rosetta -</i></b> cipolla caramellata, rucola, pecorino, pomodorini secchi, pinoli , verdire miste fritte
+  prezzo: 15.00€
+- name: Hamburger di Scamerita
+  description: <b><i>panino alle rape rosse -</i></b> zucchine grigliate sott’olio, ricotta di bufala, guancia croccante, pomodorini confit, anelli di cipolla fritti
+  prezzo: 13.50€
+
