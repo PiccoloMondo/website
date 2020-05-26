@@ -35,7 +35,7 @@
   description: rucola, pomodoro fresco, prosciutto crudo, mozzarella
   prezzo: 7.50€ 
 - name: Del contadino 
-  description: <b><i>Verdure fresche -></i></b> cipolla, patata, carota, melanzana, zucchine, spinaci, carciofi e mozzarella
+  description: <b><i>Verdure fresche -</i></b> cipolla, patata, carota, melanzana, zucchine, spinaci, carciofi e mozzarella
   prezzo: 7.00€ 
 - name: Bombolino 
   description: salsiccia, funghi, wurstel, uovo, cipolla, aglio, prosciutto cotto, olive, acciughe, capperi, mozzarella
@@ -50,7 +50,7 @@
   description: salmone,mozzarella
   prezzo: 7.50€
 - name:  Ripieno dello Starna 
-  description: <b><i>Dentro -></i></b> prosciutto cotto, wurstel, mozzarella; <br><b><i>Sopra -></i></b>  pomodoro fresco
+  description: <b><i>Ripieno -</i></b> prosciutto cotto, wurstel, mozzarella; <br><b><i>Sopra -</i></b>  pomodoro fresco
   prezzo: 8.00€
 - name: Ripieno alla salsiccia & mozzarella 
   description: 
@@ -62,7 +62,7 @@
   description: 
   prezzo: 8.50€
 - name: Ripieno del Collini 
-  description: <b><i>Dentro -></i></b> olive, porcini, prosciutto cotto, mozzarella, pomodoro fresco; <br><b><i>Sopra -></i></b>  prosciutto crudo 
+  description: <b><i>Ripieno -</i></b> olive, porcini, prosciutto cotto, mozzarella, pomodoro fresco; <br><b><i>Sopra -</i></b>  prosciutto crudo 
   prezzo: 9.00€
 - name: Ripieno del ghiottone 
   description: tutto 

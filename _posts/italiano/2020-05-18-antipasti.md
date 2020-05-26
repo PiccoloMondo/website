@@ -1,11 +1,11 @@
 ---
 layout: page
-title: I nostri antipasti
+title: Per iniziare
 categories: menu antipasti
 permalink: /:categories/index.html
 featured-img: antipasto2
 language: ita
-summary: CHANGE ME
+summary: I nostri antipasti
 menu: antipasti
 ---
 

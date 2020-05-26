@@ -1,4 +1,19 @@
-- name: Fiori di zucca fritti
-  prezzo: 6€
-- name: Bocconcini di pollo
-  prezzo: 7€
+- name: Pappardelle al ragu’ di carne 
+  prezzo: 7.00€ 
+  description: 
+- name: Fusillonic(senatore Cappelli) alla Ciociara
+  prezzo: 7.50€ 
+  description: prosciutto cotto, pinoli, pomodoro & basilico 
+- name: Pici Pippo Pippo 
+  prezzo: 8.00€ 
+  description: salsiccia, porcini, prezzemolo, mascarpone & aglio 
+- name: Spaghetti alla chitarra
+  prezzo: 7.50€
+  description: Speck, mela, ciliegie & pistacchi 
+- name: Spaghetti Furio 
+  prezzo:  6.50€
+  description: aglio, olio, peperoncino & ciliegini
+- name: Tagliatelle con Pesto tiepido di zucchine e basilico pomodorini e riccioli di pecorino
+  prezzo: 7.00€
+  description: 
+
