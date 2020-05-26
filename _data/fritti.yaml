@@ -1,4 +1,26 @@
-- name: Fiori di zucca fritti
-  prezzo: 6€
-- name: Bocconcini di pollo
-  prezzo: 7€
+- name: Fiori di zucca ripieni mozzarella e acciughe
+  prezzo: 3.50€
+- name: Mozzarelline
+  prezzo: 3.50€
+- name: Olive all'ascolana
+  prezzo: 3.50€
+- name: Crocchette di patate
+  prezzo: 3.50€
+- name: Patatine
+  prezzo: 3.50€
+- name: Anelli di cipolla
+  prezzo: 3.50€
+- name: Verdure miste 
+  description: cavolo, carciofi & zucchine
+  prezzo: 4.00€
+- name: Fritti misto 
+  prezzo: 5.50€
+  description: di tutto, un po’
+
+
+
+
+
+
+
+
