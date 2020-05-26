@@ -103,7 +103,7 @@ table th {
     </tr>
     {% for item in site.data[page.menu] %}
     <tr>
-      <td ><b style="font-family:cursive;">{{ item.name }}</b> <br><br>{% if item.description %}{{ item.description }}{% else %} {% endif %}<br></td>
+      <td ><b>{{ item.name }}</b> <br><br>{% if item.description %}{{ item.description }}{% else %} {% endif %}<br></td>
       <td data-label="Prezzo Piccola">{{ item.piccola }}</td>
       <td data-label="Prezzo Media">{{ item.media }}</td>
       <td data-label="Prezzo Grande">{{ item.grande }}</td>
@@ -124,12 +124,35 @@ table th {
 <table>
   <tbody>
     <tr>
-      <td data-label="Nome"></td>
-      <td data-label="Prezzo Piccola"><i style="font-family:cursive;">Bordolese (cl)</i></td>
-      <td data-label="Prezzo Media"><i style="font-family:cursive;">Brocca (40cl)</i></td>
-      <td data-label="Prezzo Grande"><i style="font-family:cursive;">Brocca (1 Litro)</i></td>
+      <td data-label=""></td>
+      <td data-label=""><i style="font-family:cursive;">Bordolese (75cl)</i></td>
+      <td data-label=""><i style="font-family:cursive;">Brocca (50cl)</i></td>
+      <td data-label=""><i style="font-family:cursive;">Brocca (25cl)</i></td>
     </tr>
     {% for item in site.data[page.secondary_menu] %}
+    <tr>
+      <td ><b>{{ item.name }}</b> <br><br>{% if item.description %}{{ item.description }}{% else %} {% endif %}<br></td>
+      <td data-label="Bordolese">{{ item.grande }}</td>
+      <td data-label="Brocca (50cl)">{{ item.media }}</td>
+      <td data-label="Brocca (25cl)">{{ item.piccola }}</td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+<br> 
+<br>
+<br> 
+<br>
+{% endif %}
+{% if page.ternary_menu %}
+<div style="padding-left:20px">
+  <h1 style="font-family:cursive;"><center>{{ page.ternary_title }}</center></h1>
+</div>
+<br>
+<br> 
+<table>
+  <tbody>
+    {% for item in site.data[page.ternary_menu] %}
     <tr>
       <td ><b>{{ item.name }}</b> <br><br>{% if item.description %}{{ item.description }}{% else %} {% endif %}<br></td>
       <td data-label="Prezzo">{{ item.prezzo }}</td>

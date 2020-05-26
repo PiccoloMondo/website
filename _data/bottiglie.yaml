@@ -1,0 +1,21 @@
+- name: Minerale naturale o gassata 
+  prezzo: 1.50€
+  description: 1/2 litro
+- name: Minerale naturale o gassata
+  prezzo: 2.00€
+  description:  1 litro  
+- name: Coca-cola, Aranciata 
+  prezzo: 2.50€
+  description: lattina
+- name: Coca-cola, Aranciata 
+  prezzo: 5.00€
+  description: Bottiglia 1,5 litro
+- name: Menabrea 66 cl 
+  prezzo: 4.50€
+  description: Birra chiara, Italia
+- name: Pedavena 66 cl
+  prezzo: 5.00€
+  description: Birra chiara, Italia
+
+
+
