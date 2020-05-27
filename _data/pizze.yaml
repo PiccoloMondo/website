@@ -1,6 +1,168 @@
-- name: Margherita
-  prezzo: 6€
-  description: test test test
-- name: Quattro stagioni
-  prezzo: 7€
-  description: test test 22
+- name: Calzone farcito 
+  prezzo: 6.50€
+  description: prosciutto cotto, funghi champignon e mozzarella
+- name: Margherita 
+  prezzo:  5.00€
+  description: pomodoro e mozzarella
+- name: Marinara 
+  prezzo: 4.50€
+  description: pomodoro e aglio 
+- name: Ligure 
+  prezzo: 6.00€
+  description: mozzarella pomodoro, acciughe, basilico 
+- name: Napoli 
+  prezzo: 5.70€
+  description:  pomodoro acciughe mozzarella  
+- name: Romana 
+  prezzo: 6.00€
+  description: acciughe, capperi e mozzarella 
+- name: Prosciutto cotto
+  prezzo:  6.00€
+  description: 
+- name: Prosciutto cotto e funghi champignon 
+  prezzo: 6.50€
+  description: 
+- name: Prosciutto cotto e wurstel 
+  prezzo: 6.50€
+  description: 
+- name: Prosciutto cotto e porcini 
+  prezzo: 8.00€
+  description: 
+- name: Prosciutto crudo 
+  prezzo: 7.00€
+  description: 
+- name: Wurstel 
+  prezzo: 6.00€
+  description: 
+- name: Salsiccia 
+  prezzo: 6.00€
+  description: 
+- name: Salamino piccante
+  prezzo:  7.00€
+  description: 
+- name: alla Diavola 
+  prezzo: 5.50€
+  description: aglio, peperoncino e mozzarella 
+- name: Funghi champignon 
+  prezzo: 6.00€
+  description: 
+- name: Cipolla 
+  prezzo: 6.00€
+  description: 
+- name: Lacrima 
+  prezzo: 6.00€
+  description: cipolla, aglio, peperoncino e mozzarella 
+- name: al Porcino 
+  prezzo: 7.50€
+  description: 
+- name: Capricciosa 
+  prezzo: 6.50€
+  description: salame, wurstel, olive, uovo sodo, carciofi, funghi champignon e mozzarella 
+- name: 4 Stagioni 
+  prezzo: 6.50€
+  description: wurstel, prosciutto cotto, funghi champignon,carciofi, olive nere e mozzarella 
+- name: al Gorgonzola 
+  prezzo: 7.00€
+  description: 
+- name: Rossini 
+  prezzo: 6.50€
+  description: mozzarella, uovo sodo e maionese 
+- name: 4 Formaggi 
+  prezzo:  8.00€ 
+  description: gorgonzola, sottiletta, mascarpone e mozzarella 
+- name: Tonno e capperi 
+  prezzo: 7.50€
+  description: 
+- name: Puttanesca
+  prezzo: 6.50€
+  description: capperi, acciughe, olive aglio,peperoncino e mozzarella 
+- name: alla Calabrese 
+  prezzo: 8.00€
+  description: salamino piccante, pomodorini secchi, peperoncino, aglio, olive nere e mozzarella 
+- name: alla Ciociara 
+  prezzo: 7.50€
+  description: prosciutto cotto, pinoli, peperoncino e mozzarella 
+- name: Porcini e salsa tartufata 
+  prezzo: 8.50€
+  description: 
+- name: Parmigiana 
+  prezzo: 7.00€
+  description: melanzane parmigiano mozzarella 
+- name: Cameneschi 
+  prezzo: 9.00€
+  description: tutto 
+- name: Piemontese 
+  prezzo: 8.00€
+  description: gorgonzola, prosciutto crudo, mozzarella 
+- name: All’alpina 
+  prezzo: 8.50€
+  description: porcini,prezzemolo, prosciutto crudo e mozzarella 
+- name: Piccolo Mondo 
+  prezzo: 7.50€
+  description: salsiccia, funghi champignon, carciofi, aglio,olive peperoncino e mozzarella 
+- name: Boomerang 
+  prezzo: 7.50€
+  description: parmigiano, prosciutto crudo, mozzarella 
+- name: Speedy Gonzales 
+  prezzo: 6.50€
+  description: salsiccia, cipolla, aglio, peperoncino e mozzarella 
+- name: Re 
+  prezzo: 8.00€
+  description: porcini e panna 
+- name: Regina 
+  prezzo: 8.50€
+  description: porcini, panna, prosciutto cotto 
+- name: Principessa 
+  prezzo: 7.00€
+  description: panna e prosciutto cotto
+- name: Scacciapensieri 
+  prezzo:  8.00€
+  description: tonno,salsiccia, carciofi, maionese e mozzarella
+- name: Fantasia del pizzaiolo 
+  prezzo: 8.00€
+  description: prosciutto cotto, porcini, salsiccia, carciofi e mozzarella 
+- name: Occhio di bue 
+  prezzo: 6.50€
+  description: 2 uova e mozzarella 
+- name: Contadina 
+  prezzo: 7.00€
+  description: cipolla, patate, uovo e mozzarella 
+- name: Barrocciaia 
+  prezzo: 7.50€
+  description: frittata di cipolle, parmigiano e olive 
+- name: Leo 
+  prezzo: 8.50€
+  description: 4 formaggi, tonno e capperi 
+- name: Micky 
+  prezzo: 8.50€
+  description: 4 formaggi e prosciutto crudo 
+- name: Fiore Roby 
+  prezzo:  8.50€
+  description: 4 formaggi e prosciutto cotto
+- name: Nuraghi 
+  prezzo: 7.00€
+  description: prosciutto cotto, funghi champignon, carciofi, olive verdi, capperi, acciughe e mozzarella 
+- name: Pippo Pippo 
+  prezzo: 8.50€
+  description: salsiccia, porcini, mascarpone, prezzemolo e mozzarella 
+- name: Pippolla 
+  prezzo: 8.70€
+  description: salsiccia, porcini, mascarpone, prezzemolo, cipolla e mozzarella 
+- name: Re Artù 
+  prezzo: 7.00€
+  description: salsiccia, stracchino, pepe nero e mozzarella 
+- name: di Cielo 
+  prezzo: 7.50€
+  description: salamino piccante, salciccia, cipolla e mozzarella 
+- name: Della casa 
+  prezzo:  9.00€
+  description: <b><i>Ripieno -</i></b> mozzarella ,prosciutto cotto, funghi, wrustel, carciofi <br><b><i>Sopra -</i></b> pomodoro, mozzarella ed olive
+- name: Fiocco di neve 
+  prezzo: 7.50€
+  description: <b><i>salsa di -</i></b> capperi, acciughe, olive, peperoncino e fiocchi di mascarpone 
+- name: Scamopeck 
+  prezzo: 7.00€
+  description: scamorza, speck e mozzarella 
+- name: al Salmone 
+  prezzo: 7.70€
+  description: 

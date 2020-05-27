@@ -1,0 +1,124 @@
+<html>
+<style>
+body {
+  font-family: "Open Sans", sans-serif;
+  line-height: 1.25;
+}
+
+table {
+  border: none;
+  border-collapse: collapse;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  table-layout: fixed;
+}
+
+table caption {
+  font-size: 1.5em;
+  margin: .5em 0 .75em;
+}
+
+table tr {
+  border: 0px solid #ddd;
+  padding: .35em;
+}
+
+table th,
+table td {
+  border-bottom:1px solid #CCC;
+  border-left:0px solid #CCC;
+  border-right:0px solid #CCC;
+  border-top:0px solid #CCC;
+  padding: .625em;
+  text-align: center;
+}
+
+table th {
+  font-size: .85em;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+}
+
+@media screen and (max-width: 600px) {
+  table {
+    border: none;
+  }
+
+  table caption {
+    font-size: 1.3em;
+  }
+  
+  table thead {
+    border: none;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+  }
+  
+  table tr {
+    border: none;
+    border-bottom: 3px solid #ddd;
+    display: block;
+    margin-bottom: .625em;
+  }
+  
+  table td {
+    border: none;
+    border-bottom: 1px solid #ddd;
+    display: block;
+    font-size: .8em;
+    text-align: right;
+  }
+  
+  table td::before {
+    content: attr(data-label);
+    float: left;
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+
+  table td:last-child {
+    border-bottom: 0;
+  }
+
+}
+</style>
+{% if page.special %}
+<div style="padding-left:20px">
+  <h1 style="font-family:cursive;"><center>{{ page.secondary_title }}</center></h1>
+</div>
+<br>
+<br> 
+<table>
+  <tbody>
+    <tr>
+      <td ><b style="font-family:cursive;font-size:20px;">{{ page.special }}</b> <br><br>{% if page.special_description %}{{ page.special_description }}{% else %} {% endif %}<br></td>
+      <td data-label="Prezzo">{{ page.special_price }}</td>
+    </tr>
+  </tbody>
+</table>
+<br> 
+<br>
+<br> 
+<br>
+{% endif %}
+<table>
+  <tbody>
+    {% for item in site.data[page.menu] %}
+    <tr>
+      <td ><b>{{ item.name }}</b> <br><br>{% if item.description %}{{ item.description }}{% else %} {% endif %}<br></td>
+      <td data-label="Prezzo">{{ item.prezzo }}</td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+<br> 
+<br>
+<br> 
+<br> 
+</html>
