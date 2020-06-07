@@ -13,6 +13,7 @@ baseurl: "/website" # the subpath of your site, e.g. /blog
 navigation: # Navigation links
   - {name: 'Home', link: '/'}
   - {name: 'Allergeni', link: '/allergeni'}
+  - {name: 'Contatti', link: '/contatti'}
   - {name: 'Cerca', link: '/search/'}
 
 navigation_eng: 
