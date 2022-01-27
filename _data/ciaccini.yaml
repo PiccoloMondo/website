@@ -1,15 +1,15 @@
 - name: Primavera 
   description: pomodoro fresco, mozzarella
-  prezzo: 5.50€
+  prezzo: 6.00€
 - name: Batticuore 
   description: pomodoro fresco, tonno e capperi
-  prezzo: 7.00€ 
+  prezzo: 7.50€ 
 - name: Ghiaccio bollente 
   description: prosciutto cotto, mozzarella
   prezzo: 6.00€ 
 - name:  Monte rosa 
   description: prosciutto crudo, mozzarella
-  prezzo: 7.00€ 
+  prezzo: 7.50€ 
 - name: Al Gorgonzola 
   description: 
   prezzo: 7.00€ 
@@ -27,46 +27,46 @@
   prezzo: 8.50€ 
 - name: Rambo 
   description: aglio, cipolla, peperoncino, mozzarella, salamino piccante
-  prezzo: 7.50€ 
+  prezzo: 8.00€ 
 - name: Carpaccio 
   description: bresaola ,rucola, mozzarella, grana a scaglie, pomodoro fresco 
   prezzo: 8.00€
 - name: Rusticone 
   description: rucola, pomodoro fresco, prosciutto crudo, mozzarella
-  prezzo: 7.50€ 
+  prezzo: 8.00€ 
 - name: Del contadino 
   description: <b><i>Verdure fresche -</i></b> cipolla, patata, carota, melanzana, zucchine, spinaci, carciofi e mozzarella
-  prezzo: 7.00€ 
+  prezzo: 7.50€ 
 - name: Bombolino 
   description: salsiccia, funghi, wurstel, uovo, cipolla, aglio, prosciutto cotto, olive, acciughe, capperi, mozzarella
-  prezzo:  7.50€
+  prezzo:  8.00€
 - name: Faule 
   description: prosciutto cotto, salsiccia, wurstel, mozzarella, funghi, carciofi
-  prezzo: 7.00€
+  prezzo: 7.50€
 - name: Castiglioni
   description: salmone,porcini,mozzarella
   prezzo: 9.00€
 - name: Salmone
   description: salmone,mozzarella
-  prezzo: 7.50€
+  prezzo: 8.00€
 - name:  Ripieno dello Starna 
   description: <b><i>Ripieno -</i></b> prosciutto cotto, wurstel, mozzarella; <br><b><i>Sopra -</i></b>  pomodoro fresco
-  prezzo: 8.00€
+  prezzo: 8.50€
 - name: Ripieno alla salsiccia & mozzarella 
   description: 
-  prezzo: 7.50€
+  prezzo: 8.00€
 - name: Ripieno al prosciutto cotto & mozzarella 
   description: 
-  prezzo: 7.50€
+  prezzo: 8.00€
 - name: Ripieno prosciutto cotto, porcini & mozzarella 
   description: 
-  prezzo: 8.50€
+  prezzo: 9.00€
 - name: Ripieno del Collini 
   description: <b><i>Ripieno -</i></b> olive, porcini, prosciutto cotto, mozzarella, pomodoro fresco; <br><b><i>Sopra -</i></b>  prosciutto crudo 
-  prezzo: 9.00€
+  prezzo: 9.50€
 - name: Ripieno del ghiottone 
   description: tutto 
-  prezzo: 9.50€
+  prezzo: 10.00€
 - name: Focaccina fredda 
   description: maionese, insalata, pomodoro fresco capperi, tonno, prosciutto 
   prezzo: 6.00€

@@ -1,11 +1,11 @@
 - name: San Giorgio a Lapi
   description: Rosso della casa
-  piccola: 2.50€
-  media: 4.50€
-  grande: 6.50€
+  piccola: 3.00€
+  media: 5.00€
+  grande: 7.00€
 - name: Mosso, alla spina
   description: Bianco della casa
-  piccola: 2.00€
+  piccola: 2.50€
   media: 3.50€
   grande: 6.50€ (1 Litro)
 

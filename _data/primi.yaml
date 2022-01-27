@@ -1,7 +1,7 @@
 - name: Pappardelle al ragu’ di carne 
-  prezzo: 7.00€ 
+  prezzo: 7.50€ 
   description: 
-- name: Fusillonic(senatore Cappelli) alla Ciociara
+- name: Fusilloni alla Ciociara
   prezzo: 7.50€ 
   description: prosciutto cotto, pinoli, pomodoro & basilico 
 - name: Pici Pippo Pippo 
@@ -9,9 +9,9 @@
   description: salsiccia, porcini, prezzemolo, mascarpone & aglio 
 - name: Spaghetti alla chitarra
   prezzo: 7.50€
-  description: Speck, mela, ciliegie & pistacchi 
+  description: Speck, mela, ciliegini & pistacchi 
 - name: Spaghetti Furio 
-  prezzo:  6.50€
+  prezzo:  7.00€
   description: aglio, olio, peperoncino & ciliegini
 - name: Tagliatelle con Pesto tiepido di zucchine e basilico pomodorini e riccioli di pecorino
   prezzo: 7.00€
