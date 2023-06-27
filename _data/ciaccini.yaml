@@ -1,12 +1,12 @@
 - name: Primavera 
   description: pomodoro fresco, mozzarella
-  prezzo: 6.00€
+  prezzo: 6.50€
 - name: Batticuore 
   description: pomodoro fresco, tonno e capperi
-  prezzo: 7.50€ 
+  prezzo: 8.00€ 
 - name: Ghiaccio bollente 
   description: prosciutto cotto, mozzarella
-  prezzo: 6.00€ 
+  prezzo: 6.50€ 
 - name:  Monte rosa 
   description: prosciutto crudo, mozzarella
   prezzo: 7.50€ 
@@ -15,7 +15,7 @@
   prezzo: 7.00€ 
 - name: Cipolla e salsiccia 
   description: 
-  prezzo: 6.50€ 
+  prezzo: 7.00€ 
 - name: Di bosco  
   description: porcini e mozzarella
   prezzo: 7.50€
@@ -30,19 +30,19 @@
   prezzo: 8.00€ 
 - name: Carpaccio 
   description: bresaola ,rucola, mozzarella, grana a scaglie, pomodoro fresco 
-  prezzo: 8.00€
+  prezzo: 8.50€
 - name: Rusticone 
   description: rucola, pomodoro fresco, prosciutto crudo, mozzarella
   prezzo: 8.00€ 
 - name: Del contadino 
   description: <b><i>Verdure fresche -</i></b> cipolla, patata, carota, melanzana, zucchine, spinaci, carciofi e mozzarella
-  prezzo: 7.50€ 
+  prezzo: 8.00€ 
 - name: Bombolino 
   description: salsiccia, funghi, wurstel, uovo, cipolla, aglio, prosciutto cotto, olive, acciughe, capperi, mozzarella
-  prezzo:  8.00€
+  prezzo:  8.50€
 - name: Faule 
   description: prosciutto cotto, salsiccia, wurstel, mozzarella, funghi, carciofi
-  prezzo: 7.50€
+  prezzo: 8.00€
 - name: Castiglioni
   description: salmone,porcini,mozzarella
   prezzo: 9.00€
@@ -63,7 +63,7 @@
   prezzo: 9.00€
 - name: Ripieno del Collini 
   description: <b><i>Ripieno -</i></b> olive, porcini, prosciutto cotto, mozzarella, pomodoro fresco; <br><b><i>Sopra -</i></b>  prosciutto crudo 
-  prezzo: 9.50€
+  prezzo: 10.00€
 - name: Ripieno del ghiottone 
   description: tutto 
   prezzo: 10.00€

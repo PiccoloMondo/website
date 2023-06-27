@@ -1,9 +1,9 @@
 - name: Fiori di zucca ripieni mozzarella e acciughe
-  prezzo: 3.50€
+  prezzo: 4.00€
 - name: Mozzarelline
-  prezzo: 3.50€
+  prezzo: 4.00€
 - name: Olive all'ascolana
-  prezzo: 3.50€
+  prezzo: 4.00€
 - name: Crocchette di patate
   prezzo: 3.50€
 - name: Patatine
@@ -14,7 +14,7 @@
   description: cavolo, carciofi & zucchine
   prezzo: 4.00€
 - name: Fritti misto 
-  prezzo: 5.50€
+  prezzo: 6.00€
   description: mozzarelline, olive, crocchette, polenta e panelle
 
 

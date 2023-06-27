@@ -1,11 +1,11 @@
 - name: Bruschetta al pomodoro
-  prezzo: 4.00€
+  prezzo: 5.00€
   description: olio, aglio e pomodoro
 - name: Toscano 
-  prezzo: 5.00€
+  prezzo: 6.00€
   description: affettati misti e crostini
 - name: Toscano rinforzato 
-  prezzo: 7.50€
+  prezzo: 8.00€
   description: affettati misti, crostini, bruschetta al pomodoro, pecorino e panelle fritte
 - name: Stracciatella di bufala, pancetta arrotolata & fiori di zucca ripieni fritti
   prezzo: 8.50€
