@@ -1,11 +1,11 @@
 - name: Calzone farcito 
-  prezzo: 6.50€
+  prezzo: 7.50€
   description: prosciutto cotto, funghi champignon e mozzarella
 - name: Margherita 
-  prezzo:  5.00€
+  prezzo:  5.50€
   description: pomodoro e mozzarella
 - name: Marinara 
-  prezzo: 4.50€
+  prezzo: 5.00€
   description: pomodoro e aglio 
 - name: Ligure 
   prezzo: 6.50€
@@ -20,22 +20,22 @@
   prezzo:  6.00€
   description: 
 - name: Prosciutto cotto e funghi champignon 
-  prezzo: 6.50€
+  prezzo: 7.00€
   description: 
 - name: Prosciutto cotto e wurstel 
-  prezzo: 6.50€
+  prezzo: 7.00€
   description: 
 - name: Prosciutto cotto e porcini 
   prezzo: 8.50€
   description: 
 - name: Prosciutto crudo 
-  prezzo: 7.00€
+  prezzo: 7.50€
   description: 
 - name: Wurstel 
-  prezzo: 6.00€
+  prezzo: 6.50€
   description: 
 - name: Salsiccia 
-  prezzo: 6.00€
+  prezzo: 6.50€
   description: 
 - name: Salamino piccante
   prezzo:  7.50€
@@ -44,25 +44,25 @@
   prezzo: 5.50€
   description: aglio, peperoncino e mozzarella 
 - name: Funghi champignon 
-  prezzo: 6.00€
+  prezzo: 6.50€
   description: 
 - name: Cipolla 
-  prezzo: 6.00€
+  prezzo: 6.50€
   description: 
 - name: Lacrima 
-  prezzo: 6.00€
+  prezzo: 6.50€
   description: cipolla, aglio, peperoncino e mozzarella 
 - name: al Porcino 
   prezzo: 8.00€
   description: 
 - name: Capricciosa 
-  prezzo: 6.50€
+  prezzo: 7.00€
   description: salame, wurstel, olive, uovo sodo, carciofi, funghi champignon e mozzarella 
 - name: 4 Stagioni 
   prezzo: 6.50€
   description: wurstel, prosciutto cotto, funghi champignon,carciofi, olive nere e mozzarella 
 - name: al Gorgonzola 
-  prezzo: 7.00€
+  prezzo: 7.50€
   description: 
 - name: Rossini 
   prezzo: 6.50€
@@ -80,13 +80,13 @@
   prezzo: 8.50€
   description: salamino piccante, pomodorini secchi, peperoncino, aglio, olive nere e mozzarella 
 - name: alla Ciociara 
-  prezzo: 7.50€
+  prezzo: 8.00€
   description: prosciutto cotto, pinoli, peperoncino e mozzarella 
 - name: Porcini e salsa tartufata 
-  prezzo: 8.50€
+  prezzo: 9.00€
   description: 
 - name: Parmigiana 
-  prezzo: 7.50€
+  prezzo: 8.00€
   description: melanzane parmigiano mozzarella 
 - name: Cameneschi 
   prezzo: 9.00€
@@ -98,13 +98,13 @@
   prezzo: 8.50€
   description: porcini,prezzemolo, prosciutto crudo e mozzarella 
 - name: Piccolo Mondo 
-  prezzo: 7.50€
+  prezzo: 8.00€
   description: salsiccia, funghi champignon, carciofi, aglio,olive peperoncino e mozzarella 
 - name: Boomerang 
-  prezzo: 7.50€
+  prezzo: 8.00€
   description: parmigiano, prosciutto crudo, mozzarella 
 - name: Speedy Gonzales 
-  prezzo: 7.00€
+  prezzo: 7.50€
   description: salsiccia, cipolla, aglio, peperoncino e mozzarella 
 - name: Re 
   prezzo: 8.00€
@@ -116,19 +116,19 @@
   prezzo: 7.50€
   description: panna e prosciutto cotto
 - name: Scacciapensieri 
-  prezzo:  8.00€
+  prezzo:  8.50€
   description: tonno,salsiccia, carciofi, maionese e mozzarella
 - name: Fantasia del pizzaiolo 
   prezzo: 8.50€
   description: prosciutto cotto, porcini, salsiccia, carciofi e mozzarella 
 - name: Occhio di bue 
-  prezzo: 7.00€
+  prezzo: 7.50€
   description: 2 uova e mozzarella 
 - name: Contadina 
   prezzo: 7.50€
   description: cipolla, patate, uovo e mozzarella 
 - name: Barrocciaia 
-  prezzo: 8.00€
+  prezzo: 8.50€
   description: crema di uovo, parmigiano e olive 
 - name: Leo 
   prezzo: 8.50€
@@ -146,22 +146,22 @@
   prezzo: 8.50€
   description: salsiccia, porcini, mascarpone, prezzemolo e mozzarella 
 - name: Pippolla 
-  prezzo: 8.70€
+  prezzo: 9.00€
   description: salsiccia, porcini, mascarpone, prezzemolo, cipolla e mozzarella 
 - name: Re Artù 
-  prezzo: 7.50€
+  prezzo: 8.00€
   description: salsiccia, stracchino, pepe nero e mozzarella 
 - name: di Cielo 
   prezzo: 8.00€
   description: salamino piccante, salciccia, cipolla e mozzarella 
 - name: Della casa 
-  prezzo:  9.00€
+  prezzo:  9.50€
   description: <b><i>Ripieno -</i></b> mozzarella ,prosciutto cotto, funghi, wrustel, carciofi <br><b><i>Sopra -</i></b> pomodoro, mozzarella ed olive
 - name: Fiocco di neve 
-  prezzo: 8.00€
+  prezzo: 8.50€
   description: <b><i>salsa di -</i></b> capperi, acciughe, olive, peperoncino e fiocchi di mascarpone 
 - name: Scamopeck 
-  prezzo: 8.00€
+  prezzo: 8.50€
   description: scamorza, speck e mozzarella 
 - name: al Salmone 
   prezzo: 8.00€
