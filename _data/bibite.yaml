@@ -4,12 +4,12 @@
   grande: 10.00€
 - name: Lowenbrau (Chiara) 
   piccola: 3.00€ 
-  media: 5.00€
-  grande: 11.00€
-- name: Tennent’s Scotch (Rossa) 
-  piccola: 3.50€ 
   media: 5.50€
   grande: 12.00€
+- name: Tennent’s Scotch (Rossa) 
+  piccola: 3.50€ 
+  media: 6.00€
+  grande: 13.00€
 - name: Weltenburger (Weiss)
   piccola: 3.50€
   media: 6.00€ (50cl)
