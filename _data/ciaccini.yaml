@@ -15,13 +15,13 @@
   prezzo: 7.00€ 
 - name: Cipolla e salsiccia 
   description: 
-  prezzo: 7.00€ 
+  prezzo: 7.50€ 
 - name: Di bosco  
   description: porcini e mozzarella
-  prezzo: 7.50€
+  prezzo: 8.00€
 - name:  Ciaccino porcellino 
   description: porcini, prezzemolo, mozzarella, prosciutto crudo
-  prezzo:  8.00€ 
+  prezzo:  8.50€ 
 - name: Fiordaliso 
   description: gorgonzola, wurstel, mozzarella, prosciutto cotto, mascarpone, sottiletta
   prezzo: 8.50€ 
@@ -45,7 +45,7 @@
   prezzo: 8.00€
 - name: Castiglioni
   description: salmone,porcini,mozzarella
-  prezzo: 9.00€
+  prezzo: 10.00€
 - name: Salmone
   description: salmone,mozzarella
   prezzo: 8.00€
@@ -60,22 +60,22 @@
   prezzo: 8.00€
 - name: Ripieno prosciutto cotto, porcini & mozzarella 
   description: 
-  prezzo: 9.00€
+  prezzo: 9.50€
 - name: Ripieno del Collini 
   description: <b><i>Ripieno -</i></b> olive, porcini, prosciutto cotto, mozzarella, pomodoro fresco; <br><b><i>Sopra -</i></b>  prosciutto crudo 
   prezzo: 10.00€
 - name: Ripieno del ghiottone 
   description: tutto 
-  prezzo: 10.00€
+  prezzo: 11.00€
 - name: Focaccina fredda 
   description: maionese, insalata, pomodoro fresco capperi, tonno, prosciutto 
-  prezzo: 6.00€
+  prezzo: 6.50€
 - name: Focaccina calda al formaggio 
   description: pecorino,prosciutto crudo
-  prezzo: 5.70€
+  prezzo: 6.50€
 - name: Focaccina calda al prosciutto
   description: mozzarella, prosciutto crudo
-  prezzo: 5.00€
+  prezzo: 6.00€
 
 
 
