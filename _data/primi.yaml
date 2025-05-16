@@ -1,19 +1,19 @@
 - name: Pappardelle al ragu’ di carne 
-  prezzo: 8.00€ 
+  prezzo: 8.50€ 
   description: 
 - name: Fusilloni alla Ciociara
   prezzo: 8.50€ 
   description: prosciutto cotto, pinoli, pomodoro & basilico 
 - name: Pici Pippo Pippo 
-  prezzo: 8.50€ 
+  prezzo: 9.00€ 
   description: salsiccia, porcini, prezzemolo, mascarpone & aglio 
 - name: Spaghetti alla chitarra
-  prezzo: 8.00€
+  prezzo: 8.50€
   description: Speck, mela, ciliegini & pistacchi 
 - name: Spaghetti Furio 
   prezzo:  7.50€
   description: aglio, olio, peperoncino & ciliegini
 - name: Tagliatelle con Pesto tiepido di zucchine e basilico pomodorini e riccioli di pecorino
-  prezzo: 8.00€
+  prezzo: 8.50€
   description: 
 
